@@ -8,4 +8,8 @@ public class Test1 {
 	public void vaishnavi() {
 		System.out.println("Your salary is deposited in your account ");
 	}
+	public void shruthi()
+	{
+		System.out.println("this method has created by shruthi");
+	}
 }
