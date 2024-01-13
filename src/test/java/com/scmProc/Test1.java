@@ -7,6 +7,6 @@ public class Test1 {
 	@Test
 	public void vaishnavi() {
 		System.out.println("Your salary is deposited in your account ");
-		System.out.println("You have done a good job ");
+		System.out.println("You have done a good job");
 	}
 }
